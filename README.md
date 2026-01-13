@@ -38,7 +38,7 @@ Lucas Paguetti Pereira 🧙‍♂️
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://discord.com/users/lucaspaguettipereira">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black">
 </a>
 <a href="mailto:lpp2@cesar.school">
   <img src="https://img.shields.io/badge/Email-lpp2@cesar.school-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -46,7 +46,7 @@ Lucas Paguetti Pereira 🧙‍♂️
 
 </div>
 
-<h2 align="center">🌐 Curso em Vídeo</h2>
+<h2 align="center">🌐 Curso em Vídeo: </h2>
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Lucas Paguetti Pereira 🧙‍♂️
        alt="Curso em Vídeo">
 </a>
 <a href="https://www.youtube.com/c/CursoemVideo">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black">
 </a>
 <a href="https://www.instagram.com/cursoemvideo/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
