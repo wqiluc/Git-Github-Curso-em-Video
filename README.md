@@ -1,11 +1,6 @@
 <h1 align="center">
-  Git e Github – Curso em Vídeo
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
-     width="50"
-     style="vertical-align: middle;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"
-     width="50"
-     style="vertical-align: middle;"> 
+  Git e Github – Curso em Vídeo <br>
+  <img src="https://skillicons.dev/icons?i=git,github"/>
 </h1>
 
 <p align="center">
@@ -72,13 +67,8 @@ Lucas Paguetti Pereira 🧙‍♂️
 
 
 <h2 align="center">
-  🏆 Certificado de Git e GitHub
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
-       width="30"
-       style="vertical-align: middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"
-       width="30"
-       style="vertical-align: middle;">
+  🏆 Certificado de Git e GitHub <br>
+  <img src="https://skillicons.dev/icons?i=git,github"/>
 </h2>
 
 <p align="center">
@@ -93,18 +83,5 @@ Lucas Paguetti Pereira 🧙‍♂️
   tendo 70% ou mais de aproveitamento.</strong>
 </p>
 
-<br>
 
-<div align="center">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
-       width="100"
-       style="vertical-align: middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"
-       width="100"
-       style="vertical-align: middle;">
-  <img src="img/gafanhotosoi.jpeg"
-       alt="Gafanhoto - Curso em Vídeo"
-       width="100"
-       style="vertical-align: middle;">
-</div>
